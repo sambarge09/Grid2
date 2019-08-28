@@ -1,0 +1,48 @@
+.conversion {
+    background-color:#222;
+    color:#fff;
+    padding: 20px;
+    text-align: center
+}
+
+.footer-p {
+    color:grey;
+    text-align: center;
+}
+
+.nav-bg {
+    background-color: red;
+}
+.btn-primary{
+    color:rgb(40, 40, 112);
+}
+
+.about-section  {
+    margin:75px;
+}
+
+.row {
+    padding: 45px 0;
+}
+.side-image {
+    padding:10px;
+    border:4px solid rgb(128, 0, 32);
+}
+
+.pg-pad {
+    padding:15px;
+}
+.fonter{
+    font-size: 70px;
+    color: wheat;
+}
+
+.my-container {
+    background-color: rgb(255, 7, 7);
+    border-radius: 25px;
+}
+
+.btn-success {
+    background-color:  rgb(22, 22, 99)
+}
+    
